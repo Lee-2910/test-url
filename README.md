@@ -16,3 +16,11 @@ https://vinid.net/blog/5-ly-do-su-dung-tinh-nang-vinhomes/applinks?deeplink=one:
 
 
 https://vinid.net/blog/5-ly-do-su-dung-tinh-nang-vinhomes/applinks?deeplink=one://vinid.net/home/applied_places
+
+one://vinid.net/home/applied_places
+
+
+https://vinid.net/home/applied_places
+
+
+https://home/applied_places
