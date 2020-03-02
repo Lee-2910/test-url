@@ -13,3 +13,6 @@ https://vinid.net/reward/dem-xanh-giam-ngay-500-000-dong-cho-nguoi-dung-app-vini
 
 https://vinid.net/blog/5-ly-do-su-dung-tinh-nang-vinhomes/applinks?deeplink=one://vinid.net/vinhomes/resident
      
+
+
+https://vinid.net/blog/5-ly-do-su-dung-tinh-nang-vinhomes/applinks?deeplink=one://vinid.net/home/applied_place
