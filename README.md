@@ -30,4 +30,4 @@ https://home/applied_places
 
 
 
-https://vinid.net/tin-tong-hop/qua-tang-ngay-8-3-cho-vo-chon-gi-cho-hop-y-vua-long-nang/applinks?deeplink=one://vinid.net/promotions/510
+https://vinid.net/tin-tong-hop/qua-tang-ngay-8-3-cho-vo-chon-gi-cho-hop-y-vua-long-nang/applinks?deeplink=one://vinid.net/gami/giftboxes/70
