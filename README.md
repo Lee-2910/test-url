@@ -8,6 +8,9 @@ https://vinid.net/blog/ngan-khau-trang-trao-tay-chung-tam-long-gan-ket/applinks?
 
 
 
+
+
+
 https://vinid.net/reward/dem-xanh-giam-ngay-500-000-dong-cho-nguoi-dung-app-vinid/applinks?deeplink=one://vinid.net/rewards/1915
 
 
@@ -24,3 +27,7 @@ https://vinid.net/home/applied_places
 
 
 https://home/applied_places
+
+
+
+https://vinid.net/tin-tong-hop/qua-tang-ngay-8-3-cho-vo-chon-gi-cho-hop-y-vua-long-nang/applinks?deeplink=one://vinid.net/promotions/510
