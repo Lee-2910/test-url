@@ -31,3 +31,5 @@ https://home/applied_places
 
 
 https://vinid.net/tin-tong-hop/qua-tang-ngay-8-3-cho-vo-chon-gi-cho-hop-y-vua-long-nang/applinks?deeplink=one://vinid.net/gami/giftboxes/70
+
+https://vinid.onelink.me/ojTP/91c50e5d
