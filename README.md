@@ -1,3 +1,13 @@
+https://vinid.net/home/applied_places
+
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p123456/
+
+
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-w123456/
+
+
+
+
 https://vinid.net/tin-tong-hop/vinid-chinh-thuc-mo-ban-giai-dua-xe-f1/applinks?deeplink=one://vinid.net/event/event_home
 
 
