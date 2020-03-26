@@ -14,9 +14,27 @@ go to promotion with id 123456 but error id
 https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p123456/
 
 
-go to promotion with id 120
+go to promotion with id 1
 
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p120/
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p1/
+
+
+go to promotion with id 18
+
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p18/
+
+
+go to promotion with id 15
+
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p15/
+
+
+go to topup
+
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p15/topup/
+
+
+
 
 go to reward with id 362
 https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-R362/
