@@ -5,6 +5,11 @@ deep link test
 
 one://vinid.net/home/applied-places 
 
+onelink test
+
+https://vinid.onelink.me/ojTP/91c50e5d
+
+
 unknow params go to default home
 
 https://vinid.net/uu-dai/chi-em-len-ngoi-nhan-doi-uu-dai-510/
