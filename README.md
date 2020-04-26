@@ -7,24 +7,27 @@ https://viniddev.page.link/?link=https://one.vinid.net?deeplink%3Dhome/rewards&a
 
 
 go to applied place
-https://vinid.net/home/applied-places 
-
-deep link test
-
-one://vinid.net/home/applied-places 
-
-onelink test
-
-https://vinid.onelink.me/ojTP/91c50e5d
+https://vinid.net/uu-dai/abc-xyz-r.123 
 
 
 unknow params go to default home
 
-https://vinid.net/uu-dai/chi-em-len-ngoi-nhan-doi-uu-dai-510/
+https://vinid.net/uu-dai/chi-em-len-ngoi-nhan-doi-uu-dai-p.510
 
-go to promotion with id 123456 but error id
 
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p123456/
+https://vinid.net/uu-dai/chi-em-p.510-ngoi-nhan-doi-uu-dai
+
+
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p123456
+
+
+
+
+https://vinid.net/reward/chi-em-r.510-ngoi-nhan-doi
+
+
+https://vinid.net/reward/chi-em-ngoi-nhan-doi-uu-dai-r.510
+
 
 
 go to promotion with id 1
