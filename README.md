@@ -12,7 +12,7 @@ https://vinid.net/uu-dai/abc-xyz-r.123
 
 unknow params go to default home
 
-https://vinid.net/uu-dai/chi-em-len-ngoi-nhan-doi-uu-dai-p.510
+https://vinid.net/uu-dai
 
 
 https://vinid.net/uu-dai/chi-em-p.510-ngoi-nhan-doi-uu-dai
