@@ -6,24 +6,26 @@ https://viniddev.page.link/?link=https://one.vinid.net?deeplink%3Dhome/rewards&a
 
 
 
-go to applied place
+
 https://vinid.net/uu-dai/abc-xyz-r.123 
 
 
-unknow params go to default home
 
-https://vinid.net/uu-dai
+https://vinid.net/uu-dai/abc-r.362-xyz
 
-
-https://vinid.net/uu-dai/chi-em-p.510-ngoi-nhan-doi-uu-dai
+https://vinid.net/uu-dai/
 
 
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p123456
+https://vinid.net/uu-dai/chi-em-p.1-ngoi-nhan-doi-uu-dai
+
+
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p.123456
 
 
 
 
 https://vinid.net/reward/chi-em-r.510-ngoi-nhan-doi
+
 
 
 https://vinid.net/reward/chi-em-ngoi-nhan-doi-uu-dai-r.510
@@ -32,25 +34,20 @@ https://vinid.net/reward/chi-em-ngoi-nhan-doi-uu-dai-r.510
 
 go to promotion with id 1
 
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p1/
+https://vinid.net/uu-dai/tien-ich-giup-viec-toan-quoc-p.1/
 
 
 go to promotion with id 18
 
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p18/
+https://vinid.net/uu-dai/tien-ich-giup-viec-toan-quoc-p.18/
 
 
 go to promotion with id 15
 
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p15/
-
-
-go to topup
-
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p15/topup/
+https://vinid.net/uu-dai/tien-ich-giup-viec-toan-quoc-p.15/
 
 
 
+https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-p.15/topup/
 
-go to reward with id 362
-https://vinid.net/blog/tien-ich-giup-viec-toan-quoc-R362/
+
