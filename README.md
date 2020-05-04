@@ -1,3 +1,5 @@
+one://vinid.net/rewards/2320
+
 https://vinid.net/reward/ember-bistro-giam-15-combo-menu-sharing-steak-plate-r-2320/
 
 
