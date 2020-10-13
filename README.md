@@ -1,3 +1,12 @@
+
+
+Short link: https://vinid.onelink.me/JoYi/f0e3981f
+
+
+Long link: https://vinid.onelink.me/JoYi?pid=Test&c=Test%20UAT&af_dp=one%3A%2F%2Fvinid.net%2Fhome%2Frewards
+
+
+
 one://vinid.net/home/applied_places/store/442
 
 
