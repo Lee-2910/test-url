@@ -1,3 +1,6 @@
+https://vinid.page.link/?link=https://one.vinid.net/?deeplink%3Dgroup/invitation/HxIMpZULpQkDWZB&apn=com.vingroup.vinid&isi=1215495998&ibi=com.vingroup.VinIDApp&si=&utm_campaign=DynamicLink&utm_medium=MinhLu&utm_source=Test
+
+
 
 
 Short link: https://vinid.onelink.me/JoYi/f0e3981f
