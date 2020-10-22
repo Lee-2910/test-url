@@ -1,6 +1,4 @@
-https://vinid.page.link/?link=https://one.vinid.net/?deeplink%3D 
-group/invitation/HxIMpZULpQkDWZB
-&apn=com.vingroup.vinid&isi=1215495998&ibi=com.vingroup.VinIDApp&si=&utm_campaign=DynamicLink&utm_medium=MinhLu&utm_source=Test
+https://vinid.page.link/?link=https://one.vinid.net/?deeplink%3Dgroup/invitation/HxIMpZULpQkDWZB&apn=com.vingroup.vinid&isi=1215495998&ibi=com.vingroup.VinIDApp&si=&utm_campaign=DynamicLink&utm_medium=MinhLu&utm_source=Test
 
 
 https://vinid.page.link/?link=https://one.vinid.net/?deeplink%3Dgroup/invitation/HxIMpZULpQkDWZB&apn=com.vingroup.vinid&isi=1215495998&ibi=com.vingroup.VinIDApp&si=&utm_campaign=DynamicLink&utm_medium=MinhLu&utm_source=Test
