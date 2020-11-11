@@ -1,3 +1,19 @@
+
+
+gửi chị link Appsflyer của UAT ak:
+Short link: https://vinid.onelink.me/JoYi/f0e3981f
+
+
+Long link: https://vinid.onelink.me/JoYi?pid=Test&c=Test%20UAT&af_dp=one%3A%2F%2Fvinid.net%2Fhome%2Frewards
+
+
+(Deeplink: one://vinid.net/home/rewards)
+
+
+
+
+
+
 https://viniddev.page.link/?link=https://one.vinid.net?deeplink%3Dhome/rewards&apn=com.vingroup.vinid.uat&isi=1446411203&ibi=com.vingroup.VinIDApp.UAT
 
 
