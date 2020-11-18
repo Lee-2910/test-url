@@ -18,7 +18,7 @@ Long link: https://vinid.onelink.me/JoYi?pid=Test&c=Test%20UAT&af_dp=one%3A%2F%2
 
 
 
-https://viniddev.page.link/?link=https://one.vinid.net?deeplink%3Dhome/rewards&apn=com.vingroup.vinid.uat&isi=1446411203&ibi=com.vingroup.VinIDApp.UAT
+https://viniddev.page.link/?link=https://one.superapp?deeplink%3Dhome/rewards&apn=com.vingroup.vinid.uat&isi=1446411203&ibi=com.vingroup.VinIDApp.UAT
 
 
 
@@ -45,7 +45,7 @@ https://vinid.net/reward/ember-bistro-giam-15-combo-menu-sharing-steak-plate-r-2
 
 
 
-one://vinid.net/rewards/10691
+one://superapp/rewards/10691
 
 https://vinid.net/reward/ember-bistro-giam-15-combo-menu-sharing-steak-plate-r-510/
 
