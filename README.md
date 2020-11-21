@@ -1,3 +1,5 @@
+ one://vinid.net/use_card
+ 
  one://superapp/profile/upload/image1 
 
 
