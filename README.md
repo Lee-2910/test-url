@@ -1,3 +1,15 @@
+ one://vinid.net/vincart/shopping_method_selector
+ 
+ 
+ one://vinid.net/vincart/shopping_method_selector
+ 
+one://vinid.net/sng/categories/1
+
+one://vinid.net/sng/merchants 
+ 
+ 
+ 
+ 
  one://vinid.net/use_card
  
  one://superapp/profile/upload/image1 
