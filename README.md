@@ -1,3 +1,6 @@
+https://vinid.page.link/?link=https://one.vinid.net/?deeplink%3Done://vinid.net/vbuilder/form?form_id=218&app_id=com.vingroup.vinid.one&has_profile=true&ofl=https://onehousing.vn/leave-contact&apn=com.vingroup.vinid&isi=1215495998&ibi=com.vingroup.VinIDApp&si=&utm_campaign=EDM_WF&utm_medium=EDM&utm_source=OMRE 
+ 
+ 
  one://vinid.net/vincart/shopping_method_selector
  
  
