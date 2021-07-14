@@ -1,3 +1,6 @@
+https://vinid.page.link/?link=https://vinid.net/?deeplink%3Dcommon_xfe/webview?path%3Dlucky-spin?campaign_id%3D243%26campaign_type%3DLUCKY_SPIN&apn=com.vingroup.vinid&isi=1215495998&ibi=com.one.oneid.UAT&ius=somethingelse
+
+
 https://viniddev.page.link/?link=https://one.vinid.net?deeplink%3Dvbuilder/form?form_id%253D218%26app_id%3Dcom.vingroup.vinid.one%26has_profile%3Dtrue&apn=com.vingroup.vinid.uat&isi=1215495998&ibi=com.one.oneid.UAT
 
 
