@@ -1,3 +1,7 @@
+
+zalopay://launch/f/ibft?ibfttype=1
+
+
 https://vinid.page.link/?link=https://vinid.net/?deeplink%3Dcommon_xfe/webview?path%3Dlucky-spin?campaign_id%3D243%26campaign_type%3DLUCKY_SPIN&apn=com.vingroup.vinid&isi=1215495998&ibi=com.one.oneid.UAT&ius=somethingelse
 
 
