@@ -2,7 +2,7 @@
 https://zalopay://launch/f/transfer
 
 
-https://go.zalopay.vn/f/app/transfer
+https://go.zalopay.vn/f/app
 
 
 
