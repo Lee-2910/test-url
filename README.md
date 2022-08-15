@@ -1,4 +1,9 @@
 
+https://zalopay://launch/f/transfer
+
+[I'm an inline-style link](zalopay://launch/f/transfer)
+
+
 zalopay://launch/f/ibft?ibfttype=1
 
 
