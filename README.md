@@ -1,6 +1,11 @@
 
 https://zalopay://launch/f/transfer
 
+
+https://go.zalopay.vn/f/app/transfer
+
+
+
 [I'm an inline-style link](zalopay://launch/f/transfer)
 
 
