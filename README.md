@@ -5,6 +5,9 @@ https://zalopay://launch/f/transfer
 https://go.zalopay.vn/f/app
 
 
+https://go.zalopay.vn/f/app?appid=45
+
+
 
 [I'm an inline-style link](zalopay://launch/f/transfer)
 
