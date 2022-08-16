@@ -5,7 +5,7 @@ https://zalopay://launch/f/transfer
 https://go.zalopay.vn/f/app
 
 
-https://go.zalopay.vn/f/app?appid=45
+https://go.zalopay.vn/f/app?appid=450
 
 
 
